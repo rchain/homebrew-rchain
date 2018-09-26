@@ -20,7 +20,7 @@ $ brew install rnode
 
 Please see the user guide for running rnode: 
 
-https://rchain.atlassian.net/wiki/spaces/CORE/pages/428376065/User+guide+for+running+RNode#UserguideforrunningRNode-Introduction
+https://rchain.atlassian.net/wiki/spaces/CORE/pages/428376065/User+guide+for+running+RNode
 
 ## Homebrew Documention
 
