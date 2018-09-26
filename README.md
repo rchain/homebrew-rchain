@@ -13,7 +13,7 @@ $ brew tap rchain/rchain
 Then install using the homebrew formula:
 
 ```bash
-$ brew install rchain
+$ brew install rnode
 ```
 
 ## Running rnode
