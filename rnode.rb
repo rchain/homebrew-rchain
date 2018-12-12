@@ -5,7 +5,7 @@ class Rnode < Formula
   url "https://github.com/rchain/rchain/releases/download/v#{version}/rnode-#{version}.tgz"
   sha256 "df67b49d5c977eb94fcc027a6e63f969e1c68a59952daa556dc861e59709dd19"
 
-  JAVA_VERSION = "1.8"
+  JAVA_VERSION = "1.10+"
 
   depends_on :java => JAVA_VERSION
   depends_on "libsodium"
